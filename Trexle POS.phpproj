@@ -1,0 +1,22 @@
+"General"
+{
+}
+"Configurations"
+{
+    "Release|PHP 5.6"
+    {
+    "IncludeDirs" = ""
+    }
+}
+"Files"
+{
+}
+"ProjStartupServices"
+{
+}
+"Globals"
+{
+}
+"References"
+{
+}

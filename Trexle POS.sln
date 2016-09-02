@@ -1,0 +1,19 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{1863889A-00DF-4350-BA39-669CA949CB81}") = "Trexle POS", "Trexle POS", "{A558B374-8E43-48F6-8EF8-B8C66AD08F19}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Release|PHP 5.6 = Release|PHP 5.6
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A558B374-8E43-48F6-8EF8-B8C66AD08F19}.Release|PHP 5.6.ActiveCfg = Release|PHP 5.6
+		{A558B374-8E43-48F6-8EF8-B8C66AD08F19}.Release|PHP 5.6.Deploy.0 = Release|PHP 5.6
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
